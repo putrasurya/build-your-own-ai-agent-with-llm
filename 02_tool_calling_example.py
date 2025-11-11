@@ -25,7 +25,7 @@ tools = [
 # we will keep track of messages in a list
 messages = [
     {"role": "system", "content": "You are a helpful assistant that provides weather information."},
-    {"role": "user", "content": "What's the weather like in Boston?"}
+    {"role": "user", "content": "What's the weather like in Jakarta?"}
 ]
 
 response = openai.chat.completions.create(
