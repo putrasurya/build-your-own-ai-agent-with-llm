@@ -1,6 +1,6 @@
 # Build Your Own AI Agent with LLM
 
-This repository contains code examples related to the Medium blog post: [Build Your Own AI Agent with LLM](<provide a link where user can go to>).
+This repository contains code examples related to the Medium blog post: [Build Your Own AI Agent with LLM](https://medium.com/@putrasurya/build-your-own-ai-agent-with-llm-model-30f2bca0e17c).
 
 ## Overview
 The blog post demonstrates how to create your own AI agent using Large Language Models (LLMs). It is divided into three sections, each with corresponding code examples in this repository:
